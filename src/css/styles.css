@@ -34,7 +34,7 @@ body {
   font-style: italic; }
 
 #noun-title {
-  font-style: none !important; }
+  font-style: normal !important; }
 
 hr {
   display: block;
